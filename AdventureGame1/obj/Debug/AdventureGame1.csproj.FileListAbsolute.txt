@@ -1,0 +1,10 @@
+C:\Users\gears\source\repos\AdventureGame1\AdventureGame1\bin\Debug\AdventureGame1.exe.config
+C:\Users\gears\source\repos\AdventureGame1\AdventureGame1\bin\Debug\AdventureGame1.exe
+C:\Users\gears\source\repos\AdventureGame1\AdventureGame1\bin\Debug\AdventureGame1.pdb
+C:\Users\gears\source\repos\AdventureGame1\AdventureGame1\obj\Debug\AdventureGame1.exe
+C:\Users\gears\source\repos\AdventureGame1\AdventureGame1\obj\Debug\AdventureGame1.pdb
+C:\Users\gears\source\repos\AdventureGame1\AdventureGame1\bin\Debug\AdventureGame1.exe.manifest
+C:\Users\gears\source\repos\AdventureGame1\AdventureGame1\bin\Debug\AdventureGame1.application
+C:\Users\gears\source\repos\AdventureGame1\AdventureGame1\obj\Debug\AdventureGame1.exe.manifest
+C:\Users\gears\source\repos\AdventureGame1\AdventureGame1\obj\Debug\AdventureGame1.application
+C:\Users\gears\source\repos\AdventureGame1\AdventureGame1\obj\Debug\AdventureGame1.csprojAssemblyReference.cache
